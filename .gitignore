@@ -1,16 +1,1 @@
-# Виртуальные окружения
-.venv/
-env/
 
-# PyCharm / IDE
-.idea/
-
-# Python cache
-__pycache__/
-*.py[cod]
-
-# Логи
-*.log
-
-# Секреты
-*.env
